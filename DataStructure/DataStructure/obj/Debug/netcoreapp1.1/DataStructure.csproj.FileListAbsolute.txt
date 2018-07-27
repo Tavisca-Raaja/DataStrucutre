@@ -1,0 +1,10 @@
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\bin\Debug\netcoreapp1.1\DataStructure.deps.json
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\bin\Debug\netcoreapp1.1\DataStructure.runtimeconfig.json
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\bin\Debug\netcoreapp1.1\DataStructure.runtimeconfig.dev.json
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\obj\Debug\netcoreapp1.1\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\obj\Debug\netcoreapp1.1\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\obj\Debug\netcoreapp1.1\DataStructure.AssemblyInfo.cs
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\bin\Debug\netcoreapp1.1\DataStructure.dll
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\bin\Debug\netcoreapp1.1\DataStructure.pdb
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\obj\Debug\netcoreapp1.1\DataStructure.dll
+C:\Users\rgouthaman\source\repos\DataStructure\DataStructure\obj\Debug\netcoreapp1.1\DataStructure.pdb
